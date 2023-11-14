@@ -6,11 +6,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luiz-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Luiz-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Luiz-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Luiz-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Luiz-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
   <img align="center" alt="Luiz-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
+  <img align="center" alt="Luiz-C-Plus-Plus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg">
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luiz-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
 
 ##
